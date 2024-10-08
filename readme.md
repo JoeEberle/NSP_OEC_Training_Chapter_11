@@ -451,7 +451,46 @@ Managing a patient with altered mental status requires a systematic and comprehe
 Sources:
 - Mayo Clinic: [Altered Mental Status Causes](https://www.mayoclinic.org/diseases-conditions/altered-mental-status)
 - UpToDate: [Management of Acute Stroke](https://www.uptodate.com/contents/overview-of-the-management-of-stroke)
-
+                 Term                                                                                                                                  Definition
+      Absence Seizure                       A type of seizure involving brief, sudden lapses in attention or consciousness, typically lasting only a few seconds.
+Altered Mental Status                                A broad term referring to changes in consciousness, cognition, or awareness, ranging from confusion to coma.
+                 Aura                                     A sensory warning that often precedes a seizure, such as a strange smell, taste, or visual disturbance.
+      Clonic Activity                                                                 Repetitive, jerking muscle movements seen during certain types of seizures.
+                 Coma                                  A prolonged state of unconsciousness in which a person cannot be awakened and does not respond to stimuli.
+             Delirium                             A sudden and severe confusion that is often temporary, marked by disorientation, hallucinations, and agitation.
+             Dementia                                           A chronic or progressive decline in cognitive function, affecting memory, thinking, and behavior.
+    Diabetes Mellitus                           A metabolic disorder characterized by high blood glucose levels due to insufficient insulin production or action.
+             Epilepsy                       A neurological disorder characterized by recurrent seizures resulting from abnormal electrical activity in the brain.
+  Generalized Seizure                           A type of seizure that affects both hemispheres of the brain, leading to a loss of consciousness and convulsions.
+              Glucose                                    A simple sugar that is the primary energy source for the body’s cells, often referred to as blood sugar.
+        Hyperglycemia                                                          A condition in which blood glucose levels are elevated, commonly seen in diabetes.
+         Hypoglycemia                      A condition in which blood glucose levels are too low, potentially leading to confusion, seizures, or unconsciousness.
+              Insulin                                   A hormone produced by the pancreas that regulates blood glucose levels by allowing cells to absorb sugar.
+           Polydipsia                                       Excessive thirst, often associated with diabetes mellitus and other conditions that cause fluid loss.
+             Polyuria                                                  Excessive urination, frequently seen in diabetes as a result of high blood glucose levels.
+              Seizure                A sudden burst of electrical activity in the brain that can cause convulsions, loss of consciousness, or unusual sensations.
+               Stroke A condition in which the blood supply to a part of the brain is interrupted or reduced, causing brain cell death and neurological deficits.
+       Tonic Activity                           Sustained muscle contractions, often seen during the tonic phase of a seizure, leading to stiffness and rigidity.## Key Terms 
+ 1. **Absence Seizure** - A type of seizure involving brief, sudden lapses in attention or consciousness, typically lasting only a few seconds. 
+  2. **Altered Mental Status** - A broad term referring to changes in consciousness, cognition, or awareness, ranging from confusion to coma. 
+  3. **Aura** - A sensory warning that often precedes a seizure, such as a strange smell, taste, or visual disturbance. 
+  4. **Clonic Activity** - Repetitive, jerking muscle movements seen during certain types of seizures. 
+  5. **Coma** - A prolonged state of unconsciousness in which a person cannot be awakened and does not respond to stimuli. 
+  6. **Delirium** - A sudden and severe confusion that is often temporary, marked by disorientation, hallucinations, and agitation. 
+  7. **Dementia** - A chronic or progressive decline in cognitive function, affecting memory, thinking, and behavior. 
+  8. **Diabetes Mellitus** - A metabolic disorder characterized by high blood glucose levels due to insufficient insulin production or action. 
+  9. **Epilepsy** - A neurological disorder characterized by recurrent seizures resulting from abnormal electrical activity in the brain. 
+  10. **Generalized Seizure** - A type of seizure that affects both hemispheres of the brain, leading to a loss of consciousness and convulsions. 
+  11. **Glucose** - A simple sugar that is the primary energy source for the body’s cells, often referred to as blood sugar. 
+  12. **Hyperglycemia** - A condition in which blood glucose levels are elevated, commonly seen in diabetes. 
+  13. **Hypoglycemia** - A condition in which blood glucose levels are too low, potentially leading to confusion, seizures, or unconsciousness. 
+  14. **Insulin** - A hormone produced by the pancreas that regulates blood glucose levels by allowing cells to absorb sugar. 
+  15. **Polydipsia** - Excessive thirst, often associated with diabetes mellitus and other conditions that cause fluid loss. 
+  16. **Polyuria** - Excessive urination, frequently seen in diabetes as a result of high blood glucose levels. 
+  17. **Seizure** - A sudden burst of electrical activity in the brain that can cause convulsions, loss of consciousness, or unusual sensations. 
+  18. **Stroke** - A condition in which the blood supply to a part of the brain is interrupted or reduced, causing brain cell death and neurological deficits. 
+  19. **Tonic Activity** - Sustained muscle contractions, often seen during the tonic phase of a seizure, leading to stiffness and rigidity. 
+ 
 ![Image image_filename](sample.png)
 
 ## Getting Started
@@ -478,7 +517,7 @@ To get started with the **Nsp Oec Training Chapter 11** solution repository, fol
 - **Educational** - Includes educational dialogue and background material
     
 ## Deliverables or Figures
- ![additional_image](NSP_OEC_Training_Chapter_11.png)  <br>
+ ![additional_image](Diabetes_milletus.png)  <br>![additional_image](FAST-ED.png)  <br>![additional_image](hyperglycemia_hypoglycemia.png)  <br>![additional_image](NSP_OEC_Training_Chapter_11.png)  <br>![additional_image](stroke.png)  <br>![additional_image](stroke_management.png)  <br>![additional_image](TIA.png)  <br>
     
 
 ## Github    
