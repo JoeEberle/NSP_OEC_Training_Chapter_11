@@ -520,11 +520,8 @@ To get started with the **Nsp Oec Training Chapter 11** solution repository, fol
  ![additional_image](Diabetes_milletus.png)  <br>![additional_image](FAST-ED.png)  <br>![additional_image](hyperglycemia_hypoglycemia.png)  <br>![additional_image](NSP_OEC_Training_Chapter_11.png)  <br>![additional_image](stroke.png)  <br>![additional_image](stroke_management.png)  <br>![additional_image](TIA.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
