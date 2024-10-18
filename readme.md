@@ -4,7 +4,25 @@
 
 ## National Ski Patrol - Outdoor Emergency Care chapter 11
 
-    ![Image image_filename](code.png)
+    
+![Solution](code.png)
+
+    
+## Table of Contents
+
+- [Solution Overview](#solution-overview)
+- [Who will use this ?](#who-can-use)
+- [Advantages of Using](#advantages-of-using)
+- [Return on Investment (ROI)](#return-on-investment-roi)
+- [How it Works](#how-it-works)
+- [Conclusion](#conclusion)
+- [Getting Started](#getting-started)
+- [Solution Features](#solution-features)
+- [Code Features](#code-features)
+- [Deliverables or Figures](#deliverables-or-figures)
+- [Contact Information](#contact-information)
+
+
 Module Objectives
 After participating in this module, subsequent skills component, and book reading, you should be able to:
 
@@ -489,7 +507,13 @@ Altered Mental Status                                A broad term referring to c
   17. **Seizure** - A sudden burst of electrical activity in the brain that can cause convulsions, loss of consciousness, or unusual sensations. 
   18. **Stroke** - A condition in which the blood supply to a part of the brain is interrupted or reduced, causing brain cell death and neurological deficits. 
   19. **Tonic Activity** - Sustained muscle contractions, often seen during the tonic phase of a seizure, leading to stiffness and rigidity. 
- ![Image image_filename](code.png)![Image image_filename](sample.png)
+ 
+![Solution](code.png)
+
+    
+![Solution](code.png)
+
+    
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
