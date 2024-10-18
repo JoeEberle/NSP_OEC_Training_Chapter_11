@@ -483,7 +483,7 @@ Altered Mental Status                                A broad term referring to c
   17. **Seizure** - A sudden burst of electrical activity in the brain that can cause convulsions, loss of consciousness, or unusual sensations. 
   18. **Stroke** - A condition in which the blood supply to a part of the brain is interrupted or reduced, causing brain cell death and neurological deficits. 
   19. **Tonic Activity** - Sustained muscle contractions, often seen during the tonic phase of a seizure, leading to stiffness and rigidity. 
- ![Image image_filename](sample.png)
+ ![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
