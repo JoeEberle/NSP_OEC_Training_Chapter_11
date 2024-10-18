@@ -1,11 +1,4 @@
-
-![Image image_filename](solution_sign.png)
-
-# Nsp Oec Training Chapter 11 - National Ski Patrol - Outdoor Emergency Care chapter 11
-National Ski Patrol - Outdoor Emergency Care chapter 11
-
-![Image image_filename](code.png)
-
+![Image image_filename](solution_sign.png)# Nsp Oec Training Chapter 11 - National Ski Patrol - Outdoor Emergency Care chapter 11![Image image_filename](code.png)
 Module Objectives
 After participating in this module, subsequent skills component, and book reading, you should be able to:
 
@@ -490,9 +483,7 @@ Altered Mental Status                                A broad term referring to c
   17. **Seizure** - A sudden burst of electrical activity in the brain that can cause convulsions, loss of consciousness, or unusual sensations. 
   18. **Stroke** - A condition in which the blood supply to a part of the brain is interrupted or reduced, causing brain cell death and neurological deficits. 
   19. **Tonic Activity** - Sustained muscle contractions, often seen during the tonic phase of a seizure, leading to stiffness and rigidity. 
- 
-![Image image_filename](sample.png)
-
+ ![Image image_filename](sample.png)
 ## Getting Started
 To get started with the **Nsp Oec Training Chapter 11** solution repository, follow these steps:
 1. Clone the repository to your local machine.
@@ -507,6 +498,9 @@ To get started with the **Nsp Oec Training Chapter 11** solution repository, fol
 - Its Fast and Automated
 
 ## Notebook Features
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
 - **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
@@ -516,13 +510,11 @@ To get started with the **Nsp Oec Training Chapter 11** solution repository, fol
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Deliverables or Figures
+## List of Figures
  ![additional_image](Diabetes_milletus.png)  <br>![additional_image](FAST-ED.png)  <br>![additional_image](hyperglycemia_hypoglycemia.png)  <br>![additional_image](NSP_OEC_Training_Chapter_11.png)  <br>![additional_image](stroke.png)  <br>![additional_image](stroke_management.png)  <br>![additional_image](TIA.png)  <br>
     
 
-## Github    https://github.com/JoeEberle/ 
-## Email  josepheberle@outlook.com 
-
+## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
     
 ![Developer](developer.png)
 
