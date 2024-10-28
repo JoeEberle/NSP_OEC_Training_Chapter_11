@@ -31,15 +31,15 @@ After participating in this module, subsequent skills component, and book readin
 
 The mnemonic **AEIOU-TIPS** is commonly used to remember the **causes of altered mental status (AMS)**. Each letter stands for a category of conditions that can lead to AMS:
 
-- **A** – **Alcohol** (or drug intoxication) and **Acidosis**: This includes alcohol intoxication, drug overdose, or metabolic acidosis.
-- **E** – **Endocrine, Electrolytes, and Encephalopathy**: Disorders like hypoglycemia, hyperglycemia (diabetic emergencies), electrolyte imbalances (e.g., hyponatremia), or hepatic encephalopathy.
-- **I** – **Infection**: Includes infections such as meningitis, encephalitis, sepsis, or urinary tract infections (especially in the elderly).
-- **O** – **Overdose** (or oxygen deficiency): Overdose on medications or drugs, or hypoxia (low oxygen levels).
-- **U** – **Uremia**: Resulting from kidney failure, leading to toxin buildup in the blood.
-- **T** – **Trauma or Tumor**: Head injuries (trauma), concussions, or brain tumors.
-- **I** – **Insulin**: Hypoglycemia or hyperglycemia due to insulin imbalances.
-- **P** – **Psychosis or Poisoning**: Severe psychiatric conditions or poisoning from toxins or chemicals.
-- **S** – **Seizure, Stroke, or Shock**: Postictal states (following seizures), cerebrovascular accidents (strokes), or shock (septic, hypovolemic, etc.).
+- **A** â€“ **Alcohol** (or drug intoxication) and **Acidosis**: This includes alcohol intoxication, drug overdose, or metabolic acidosis.
+- **E** â€“ **Endocrine, Electrolytes, and Encephalopathy**: Disorders like hypoglycemia, hyperglycemia (diabetic emergencies), electrolyte imbalances (e.g., hyponatremia), or hepatic encephalopathy.
+- **I** â€“ **Infection**: Includes infections such as meningitis, encephalitis, sepsis, or urinary tract infections (especially in the elderly).
+- **O** â€“ **Overdose** (or oxygen deficiency): Overdose on medications or drugs, or hypoxia (low oxygen levels).
+- **U** â€“ **Uremia**: Resulting from kidney failure, leading to toxin buildup in the blood.
+- **T** â€“ **Trauma or Tumor**: Head injuries (trauma), concussions, or brain tumors.
+- **I** â€“ **Insulin**: Hypoglycemia or hyperglycemia due to insulin imbalances.
+- **P** â€“ **Psychosis or Poisoning**: Severe psychiatric conditions or poisoning from toxins or chemicals.
+- **S** â€“ **Seizure, Stroke, or Shock**: Postictal states (following seizures), cerebrovascular accidents (strokes), or shock (septic, hypovolemic, etc.).
 
 This mnemonic helps healthcare professionals quickly assess the broad range of possible causes of altered mental status during diagnosis.
 
@@ -69,7 +69,7 @@ The symptoms of TIA are often similar to those of a full stroke but are temporar
    - Call **911** or the emergency services in your area for urgent medical evaluation.
 
 2. **Assess ABCs (Airway, Breathing, Circulation)**:
-   - Ensure the patient’s **airway** is clear, they are **breathing**, and their **circulation** is stable.
+   - Ensure the patientâ€™s **airway** is clear, they are **breathing**, and their **circulation** is stable.
    - If there is any sign of compromise in breathing or consciousness, begin **basic life support** (BLS) until help arrives.
 
 3. **Monitor Symptoms**:
@@ -78,7 +78,7 @@ The symptoms of TIA are often similar to those of a full stroke but are temporar
      - **F**ace: Ask the person to smile and check for facial drooping.
      - **A**rms: Ask the person to raise both arms and check for weakness.
      - **S**peech: Ask the person to repeat a simple sentence and listen for slurred speech.
-     - **T**ime: Time is critical—get medical help immediately.
+     - **T**ime: Time is criticalâ€”get medical help immediately.
 
 #### **Medical Evaluation and Treatment**
 Once the patient reaches a medical facility, the healthcare team will:
@@ -218,18 +218,18 @@ Assessing a patient with **altered mental status (AMS)** involves a systematic e
 ### **Step-by-Step Assessment of Altered Mental Status**
 
 #### **1. Initial Survey (Primary Assessment)**
-- **Check for ABCs**: Ensure that the patient’s **Airway**, **Breathing**, and **Circulation** are stable. If the patient’s airway is compromised, take immediate action to secure it.
-- **Level of Consciousness**: Use the **AVPU scale** (Alert, Verbal, Painful, Unresponsive) to quickly assess the patient’s consciousness level.
+- **Check for ABCs**: Ensure that the patientâ€™s **Airway**, **Breathing**, and **Circulation** are stable. If the patientâ€™s airway is compromised, take immediate action to secure it.
+- **Level of Consciousness**: Use the **AVPU scale** (Alert, Verbal, Painful, Unresponsive) to quickly assess the patientâ€™s consciousness level.
 - **Assess Safety**: Ensure that the environment is safe for both the patient and healthcare provider, especially if the patient is combative or disoriented.
 
 #### **2. Detailed History (SAMPLE)**
 
 - **S**: **Signs and Symptoms**: Ask what symptoms preceded the change in mental status.
 - **A**: **Allergies**: Ask about known allergies, which could provide clues about medication or toxin reactions.
-- **M**: **Medications**: Review the patient’s medications, as AMS may result from drug interactions, overdose, or missed doses.
+- **M**: **Medications**: Review the patientâ€™s medications, as AMS may result from drug interactions, overdose, or missed doses.
 - **P**: **Past Medical History**: Look for a history of conditions like diabetes, seizures, dementia, or psychiatric disorders.
-- **L**: **Last Oral Intake**: Knowing the patient’s last meal or fluid intake can help identify dehydration, hypoglycemia, or intoxication.
-- **E**: **Events Leading Up**: Understand what events preceded the AMS—trauma, substance use, stress, or illness.
+- **L**: **Last Oral Intake**: Knowing the patientâ€™s last meal or fluid intake can help identify dehydration, hypoglycemia, or intoxication.
+- **E**: **Events Leading Up**: Understand what events preceded the AMSâ€”trauma, substance use, stress, or illness.
 
 #### **3. Neurological Examination**
 
@@ -266,7 +266,7 @@ Assessing a patient with **altered mental status (AMS)** involves a systematic e
 - **Seizure Management**: Administer anticonvulsants for ongoing seizures.
 
 #### **7. Ongoing Monitoring**
-- Continuously monitor the patient’s **vital signs**, **level of consciousness**, and **neurological status**. Reassess frequently, especially if the patient’s condition changes.
+- Continuously monitor the patientâ€™s **vital signs**, **level of consciousness**, and **neurological status**. Reassess frequently, especially if the patientâ€™s condition changes.
 
 ### **Conclusion**
 Evaluating a patient with altered mental status requires a structured approach that includes primary assessments for immediate life-threatening conditions, detailed history-taking, and a full physical and neurological examination. This approach allows for the identification of the underlying cause and ensures timely treatment, which is crucial for improving outcomes.
@@ -394,12 +394,12 @@ The treatment of a patient with **altered mental status (AMS)** involves a syste
 
 ### **2. Gather Critical Information**
 - **Perform a Focused History (SAMPLE):**
-  - **S**: Signs and symptoms—what other symptoms are present (e.g., fever, headache, weakness)?
-  - **A**: Allergies—does the patient have any known allergies to medications or substances?
-  - **M**: Medications—is the patient on any medications that could cause AMS (e.g., insulin, sedatives, narcotics)?
-  - **P**: Past medical history—does the patient have a history of diabetes, seizures, or other relevant conditions?
-  - **L**: Last meal or oral intake—was there anything unusual in the patient’s recent food or drink intake?
-  - **E**: Events leading up to the incident—was there trauma, drug use, or illness before the onset of AMS?
+  - **S**: Signs and symptomsâ€”what other symptoms are present (e.g., fever, headache, weakness)?
+  - **A**: Allergiesâ€”does the patient have any known allergies to medications or substances?
+  - **M**: Medicationsâ€”is the patient on any medications that could cause AMS (e.g., insulin, sedatives, narcotics)?
+  - **P**: Past medical historyâ€”does the patient have a history of diabetes, seizures, or other relevant conditions?
+  - **L**: Last meal or oral intakeâ€”was there anything unusual in the patientâ€™s recent food or drink intake?
+  - **E**: Events leading up to the incidentâ€”was there trauma, drug use, or illness before the onset of AMS?
 
 ### **3. Targeted Physical Examination**
 - **Neurological Exam:** 
@@ -440,15 +440,15 @@ The treatment of a patient with **altered mental status (AMS)** involves a syste
 
 ### **6. Ongoing Monitoring and Follow-up**
 - Continue monitoring **vital signs** (blood pressure, heart rate, oxygen saturation) and reassess the level of consciousness.
-- **Frequent re-evaluation** is necessary as the patient’s condition may evolve, and further interventions may be needed based on lab and imaging results.
+- **Frequent re-evaluation** is necessary as the patientâ€™s condition may evolve, and further interventions may be needed based on lab and imaging results.
 
 ### **Example Scenario:**
-A 62-year-old male presents to the emergency room with confusion and disorientation. The initial assessment shows the patient is responsive to verbal stimuli, has a GCS of 13, and low blood pressure. A rapid blood glucose check reveals hypoglycemia (glucose of 48 mg/dL), so 50 mL of **IV dextrose** is administered. After 5 minutes, the patient’s mental status improves. The patient is closely monitored for changes, and additional blood work is sent to assess electrolyte imbalances. A CT scan rules out acute stroke.
+A 62-year-old male presents to the emergency room with confusion and disorientation. The initial assessment shows the patient is responsive to verbal stimuli, has a GCS of 13, and low blood pressure. A rapid blood glucose check reveals hypoglycemia (glucose of 48 mg/dL), so 50 mL of **IV dextrose** is administered. After 5 minutes, the patientâ€™s mental status improves. The patient is closely monitored for changes, and additional blood work is sent to assess electrolyte imbalances. A CT scan rules out acute stroke.
 
 ---
 
 ### **Summary**
-Managing a patient with altered mental status requires a systematic and comprehensive approach. The priorities are to stabilize the patient, identify the underlying cause through a thorough history and physical examination, and administer appropriate treatments based on the cause (e.g., glucose for hypoglycemia, naloxone for opioid overdose, tPA for ischemic stroke). Ongoing monitoring and reassessment are critical to ensure the patient’s condition does not worsen.
+Managing a patient with altered mental status requires a systematic and comprehensive approach. The priorities are to stabilize the patient, identify the underlying cause through a thorough history and physical examination, and administer appropriate treatments based on the cause (e.g., glucose for hypoglycemia, naloxone for opioid overdose, tPA for ischemic stroke). Ongoing monitoring and reassessment are critical to ensure the patientâ€™s condition does not worsen.
 
 Sources:
 - Mayo Clinic: [Altered Mental Status Causes](https://www.mayoclinic.org/diseases-conditions/altered-mental-status)
@@ -464,7 +464,7 @@ Altered Mental Status                                A broad term referring to c
     Diabetes Mellitus                           A metabolic disorder characterized by high blood glucose levels due to insufficient insulin production or action.
              Epilepsy                       A neurological disorder characterized by recurrent seizures resulting from abnormal electrical activity in the brain.
   Generalized Seizure                           A type of seizure that affects both hemispheres of the brain, leading to a loss of consciousness and convulsions.
-              Glucose                                    A simple sugar that is the primary energy source for the body’s cells, often referred to as blood sugar.
+              Glucose                                    A simple sugar that is the primary energy source for the bodyâ€™s cells, often referred to as blood sugar.
         Hyperglycemia                                                          A condition in which blood glucose levels are elevated, commonly seen in diabetes.
          Hypoglycemia                      A condition in which blood glucose levels are too low, potentially leading to confusion, seizures, or unconsciousness.
               Insulin                                   A hormone produced by the pancreas that regulates blood glucose levels by allowing cells to absorb sugar.
@@ -483,7 +483,7 @@ Altered Mental Status                                A broad term referring to c
   8. **Diabetes Mellitus** - A metabolic disorder characterized by high blood glucose levels due to insufficient insulin production or action. 
   9. **Epilepsy** - A neurological disorder characterized by recurrent seizures resulting from abnormal electrical activity in the brain. 
   10. **Generalized Seizure** - A type of seizure that affects both hemispheres of the brain, leading to a loss of consciousness and convulsions. 
-  11. **Glucose** - A simple sugar that is the primary energy source for the body’s cells, often referred to as blood sugar. 
+  11. **Glucose** - A simple sugar that is the primary energy source for the bodyâ€™s cells, often referred to as blood sugar. 
   12. **Hyperglycemia** - A condition in which blood glucose levels are elevated, commonly seen in diabetes. 
   13. **Hypoglycemia** - A condition in which blood glucose levels are too low, potentially leading to confusion, seizures, or unconsciousness. 
   14. **Insulin** - A hormone produced by the pancreas that regulates blood glucose levels by allowing cells to absorb sugar. 
